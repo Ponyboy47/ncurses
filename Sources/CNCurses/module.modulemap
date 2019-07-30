@@ -1,0 +1,5 @@
+module CNCurses {
+    header "ncurses.h"
+    link "ncurses"
+    export *
+}
