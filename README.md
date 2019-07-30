@@ -5,7 +5,7 @@ Swift bindings into the C ncurses library with complex macros included (not norm
 ## Installation (SPM)
 
 ```swift
-.package(url: "https://github.com/Ponyboy47/ncurses.git", from: .branch("master"))
+.package(url: "https://github.com/Ponyboy47/ncurses.git", .branch("master"))
 ```
 
 ## Usage
